@@ -8,7 +8,7 @@ This repository is exclusively used for hosting the compiled `.apk` release file
 
 ## 📥 How to Download
 To manually get the latest version of RZR Messenger:
-1. Go to the [Releases](https://github.com/YOUR_GITHUB_USERNAME/rzr_releases/releases) section on the right side of this page.
+1. Go to the [Releases](https://github.com/rokonuzzamanremon03/rzr_releases/releases) section on the right side of this page.
 2. Click on the most recent version (e.g., `v1.0.2`).
 3. Download the `.apk` file under the **Assets** dropdown and install it on your Android device.
 
